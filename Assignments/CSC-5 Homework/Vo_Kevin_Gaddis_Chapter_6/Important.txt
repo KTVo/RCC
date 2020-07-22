@@ -1,0 +1,8 @@
+Dear Dr. Lehr:
+
+I apologize that these programs are not within a menu under a switch statement. I have have been trying for hours, figuring out a way around the "unexpected token errors" by 
+checking if all the curly brackets and semicolons are in the correct spots. The program seems to operate fine on their own; however, when I try to incorporate them into the 
+switch statement it failed to run.
+
+Sorry,
+       Kevin Vo 

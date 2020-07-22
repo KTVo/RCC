@@ -1,0 +1,11 @@
+http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
+
+http://www.pagecolumn.com/tool/regtest.htm
+
+Only accepts mm/dd
+
+^\s*(([0][1-9])|([1][0-2]))\/(([0][1-9])|[1-2][0-9]|([3][0-1]))\s*$
+
+Homework:
+
+Make the year only between: (1950 - 2014)s

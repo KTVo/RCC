@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>LinkedList.h</itemPath>
+      <itemPath>Object.h</itemPath>
+      <itemPath>SimpleVector.h</itemPath>
+      <itemPath>SimpleVectorEfficient.h</itemPath>
+      <itemPath>SimpleVectorLinkedList.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Prob10_PowerFunct.cpp</itemPath>
+      <itemPath>Prob12_MutualRecursion.cpp</itemPath>
+      <itemPath>Prob13_Set_Map.cpp</itemPath>
+      <itemPath>Prob1_LinearBinary.cpp</itemPath>
+      <itemPath>Prob2_Bubble_Selection_Sort.cpp</itemPath>
+      <itemPath>Prob8_Dices.cpp</itemPath>
+      <itemPath>Prob9_BitVector.cpp</itemPath>
+      <itemPath>Prob_11.cpp</itemPath>
+      <itemPath>Prob_3_ALL_3_SimpleVectors.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>prob7_Fib.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="LinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Prob10_PowerFunct.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob12_MutualRecursion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob13_Set_Map.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob1_LinearBinary.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob2_Bubble_Selection_Sort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob8_Dices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob9_BitVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob_11.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob_3_ALL_3_SimpleVectors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleVector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleVectorEfficient.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleVectorLinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="prob7_Fib.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="LinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Prob10_PowerFunct.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob12_MutualRecursion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob13_Set_Map.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob1_LinearBinary.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob2_Bubble_Selection_Sort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob8_Dices.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob9_BitVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob_11.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prob_3_ALL_3_SimpleVectors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleVector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleVectorEfficient.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleVectorLinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="prob7_Fib.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
